@@ -27,3 +27,5 @@ FOLDER: /results
 
 FOLDER: /src
 --> This folder contains source code files that require compilation.
+
+The syntax of markdown files (.md) is CommonMark unless specified otherwise (https://commonmark.org/help/)
