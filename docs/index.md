@@ -9,6 +9,9 @@ nav_order: 1
 This is your entry page on the public website associated with your project. State the goal of the project, status, collaborators, and any basic information.
 
 The associated file `index.md` contains a YAML front matter to indicate the layout, title, and navigation options. The repo's website is based on Jekyll's theme [Just-the-Docs](https://pmarsceill.github.io/just-the-docs/). Explore their [documentation]([Just-the-Docs](https://pmarsceill.github.io/just-the-docs/)) and associated [GitHub repo](https://github.com/pmarsceill/just-the-docs) to adapt your project's website to your needs.
+---
+
+The `head.html` file from the original template has been modified in `/docs/_includes` to include MathJax, so you can write math using latex format. Here are some examples:
 
 Math equation using MathJax: $$5+5$$
 
@@ -36,5 +39,4 @@ When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are
   x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
 \end{equation}
 
-This is all for now.
-
+May Athena be with you.
