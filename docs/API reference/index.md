@@ -4,8 +4,10 @@ title: API reference
 nav_order: 2
 ---
 
-# Synthesis
+# API reference
 
-Provide a synthesis of the project. This would be the equivalent of the abstract for a grant or an article. Keep it short (< 200). Use the space in [Home]({{ site.baseurl }}) to give the significance. Be more technical in the synthesis (with measure).
+Include all the modults and functions created along with a short description of each. 
 
-Include a figure that captures the project.
+Provide a synthesis of the project. This would be the equivalent of the abstract for a grant or an article. Use the space in [Home]({{ site.baseurl }}) to give the significance. Be more technical in the synthesis (with measure).
+
+
