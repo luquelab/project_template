@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Method
-nav_order: 4
+nav_order: 2
 ---
 
-# Approach
+# Method
 
 Describe here, for example, how data will be obtained, analyzed, and modeled.
 
