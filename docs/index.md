@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-## Home
+# Home
 
 **People.** The first principle in the lab is people. Projects occur because people think and work on them. Share here some basic information about the team involved in the project. Use hyperlinks as needed. Add a picture of you or the team. Introduce yourself and any bio that you consider relevant. Mention the other members involved. Here is an example. Welcome to the documentation of the [project_template](https://github.com/luquelab/project_template/tree/main/docs) GitHub repository! My name is Antoni Luque, and I am leading this project. I'm an Associated Professor in the [Mathematics & Statistics Department](https://math.sdsu.edu) at San Diego State University ([SDSU](https://www.sdsu.edu)) If you have any questions you can contact me at my SDSU email: [aluque@sdsu.edu].
 
