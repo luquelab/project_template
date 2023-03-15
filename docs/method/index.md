@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Approach
+title: Method
 nav_order: 4
 ---
 
